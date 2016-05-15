@@ -3,11 +3,11 @@ user Story		      	Task 			              PIC	    	Duration		Keterangan
 													
 
 create register	  	back-end			             DM,Gl 		8 hours			selesai membuat system registrasi	
-create login		    back-end		               SJ,OK	  5 hours			selesai membuat system login								
-design register	   	html mock-up			         HE		    6 hours			selesai design register							
-design login		    html mock-up			         HA		    5 hours			selesai design login							
-design icon /logo   icon,psd,dan css design	   MA		    8 hours			selesai design icon and logo design
-design db		        design database sql		     HW,HA		10 hours		selesai design db
+create login		back-end		               	     SJ,OK		5 hours			selesai membuat system login								
+design register	   	html mock-up			             HE		    	6 hours			selesai design register							
+design login		html mock-up			             HA		    	5 hours			selesai design login							
+design icon /logo   	icon,psd,dan css design	   		     MA		    	8 hours			selesai design icon and logo design
+design db		design database sql		     	     HW,HA		10 hours		selesai design db
 							
 
 Yang sudah dilakukan 
